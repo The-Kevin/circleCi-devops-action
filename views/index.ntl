@@ -9,12 +9,13 @@
 <body>
     <center>
         <H1>DevOps</H1>
-        <h3>A CircleCi intergration API</h3>
+        <h3>API DevOps Docker </h3>
+        <section>
+            <h3>API created using Docker-Machine and AWS EC2 driver</h3>
+        </section>
+        <footer>
+            <p>powered by: Kevin Almeida :D</p>
+        </footer>
     </center>
-
-    <footer>
-        <p>powered by: Kevin Almeida :D</p>
-    </footer>
-   
 </body>
 </html>
